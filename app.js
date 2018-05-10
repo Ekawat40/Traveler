@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
 
-app.get('/',(req,res)=> res.send('Hello world kuy eak'));
+app.get('/Helloworld',(req,res)=> res.send('Hello World'));
 
-app.listen(3000,()=> console.log('Hello kuy eak'));
+app.listen(3000,()=> console.log('Hello World'));
