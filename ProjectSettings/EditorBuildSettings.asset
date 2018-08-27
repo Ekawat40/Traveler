@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/nextB.unity
+    guid: 521618d8f03915c4b96adaef82bbfcc1
+  - enabled: 0
+    path: Assets/Scenes/main2.unity
+    guid: 6ff39c5a00c38b742a094e923099d326
+  - enabled: 1
+    path: Assets/Scenes/LogoStart.unity
+    guid: 928d50ef2c5ba464f93e006ed3dc4b68
+  - enabled: 1
+    path: Assets/Scenes/ChooseGender.unity
+    guid: 2dad7095831ec014cb6e3dc727ca8fcf
+  - enabled: 1
+    path: Assets/Scenes/CreateGirlCharacter.unity
+    guid: 776ec338746d2244c8f65b5e88c893cb
+  - enabled: 1
+    path: Assets/Scenes/Main_1.unity
+    guid: aad0e47286fbeb642aa5afb57b511c11
+  m_configObjects: {}

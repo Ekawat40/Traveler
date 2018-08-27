@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "748713475123",
+    "firebase_url": "https://testtraveller-3169d.firebaseio.com",
+    "project_id": "testtraveller-3169d",
+    "storage_bucket": "testtraveller-3169d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748713475123:android:2c3ab7c54b4a94f5",
+        "android_client_info": {
+          "package_name": "com.Traveler.G31"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748713475123-n8h56hc5r3pf10a14a5n6122c20b5q0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Traveler.G31",
+            "certificate_hash": "cf6b12abd07974b8988c90b3aa8374076771730d"
+          }
+        },
+        {
+          "client_id": "748713475123-nltvh6svl9nr2ovl3t6j0qj0urjfvg79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXdKnWPSEHsSwmUH4svAtt9nrC6i-_CKY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748713475123-nltvh6svl9nr2ovl3t6j0qj0urjfvg79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
